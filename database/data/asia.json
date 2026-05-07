@@ -1,0 +1,149 @@
+[
+ {
+   "id": 21,
+   "country": "Vietnam",
+   "population": 101598527,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 20,
+   "country": "United Arab Emirates",
+   "population": 11346000,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 19,
+   "country": "Turkey",
+   "population": 87685426,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 18,
+   "country": "Thailand",
+   "population": 71619863,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 17,
+   "country": "South Korea",
+   "population": 51667029,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 16,
+   "country": "Singapore",
+   "population": 5870750,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 15,
+   "country": "Saudi Arabia",
+   "population": 34566328,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 14,
+   "country": "Russia",
+   "population": 143997393,
+   "created_at": "2024-06-07 13:40:51",
+   "updated_at": "2024-06-07 13:40:51"
+ },
+ {
+   "id": 13,
+   "country": "Qatar",
+   "population": 3115889,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 12,
+   "country": "Pakistan",
+   "population": 255219554,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 11,
+   "country": "Malaysia",
+   "population": 35977838,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 10,
+   "country": "Kuwait",
+   "population": 5026078,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 9,
+   "country": "Japan",
+   "population": 123103479,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 8,
+   "country": "Iraq",
+   "population": 47020774,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 7,
+   "country": "Iran",
+   "population": 92417681,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 6,
+   "country": "Indonesia",
+   "population": 285721236,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 5,
+   "country": "India",
+   "population": 1463865525,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 4,
+   "country": "China",
+   "population": 1416096094,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 3,
+   "country": "Cambodia",
+   "population": 17847982,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 2,
+   "country": "Bangladesh",
+   "population": 175686899,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ },
+ {
+   "id": 1,
+   "country": "Bahrain",
+   "population": 1643332,
+   "created_at": "2025-06-07 13:40:51",
+   "updated_at": "2025-06-07 13:40:51"
+ }
+]
